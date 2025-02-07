@@ -1,6 +1,0 @@
-django
-psycopg2
-stripe
-django-extensions
-gunicorn
-whitenoise
